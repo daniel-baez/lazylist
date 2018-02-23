@@ -8,10 +8,10 @@ Just check the [docs](docs.daplay.cl/lazylist/cl/daplay/lazylist/LazyList.html)
 <dependency>
    <groupId>cl.daplay</groupId>
    <artifactId>lazylist</artifactId>
-   <version>4.3.0</version>
+   <version>1.0.0</version>
 </dependency>
 ```
 
 ```groovy
-compile group: 'cl.daplay', name: 'lazylist', version: '4.3.0'
+compile group: 'cl.daplay', name: 'lazylist', version: '1.0.0'
 ```
