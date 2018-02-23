@@ -1,6 +1,6 @@
 LazyList extracted while coding [JBuda](http://github.com/daplay/jbuda)
 
-Just check the [docs](docs.daplay.cl/lazylist/cl/daplay/lazylist/LazyList.html)
+Just check the [docs](http://docs.daplay.cl/lazylist/cl/daplay/lazylist/LazyList.html)
 
 ## Installation
 
