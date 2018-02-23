@@ -24,7 +24,6 @@ apply plugin: 'com.bmuschko.nexus'
 apply plugin: "com.gorylenko.gradle-git-properties"
 
 group = "cl.daplay"
-description = "Java API for Buda.com REST services."
 
 targetCompatibility = '1.8'
 sourceCompatibility = '1.8'
